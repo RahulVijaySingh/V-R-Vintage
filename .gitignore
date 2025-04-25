@@ -1,0 +1,5 @@
+# Ignore environment files
+.env
+chrome
+Contact_dataset.xlsx
+output_flat_keywords_with_sentiment - Copy.xlsx
